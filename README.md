@@ -1,4 +1,4 @@
-# Guided Image Filter
+# Guided Image Filter implemented by JavaCV
 This file GuidedImageFilter.java is an implementation of Guided Image Filter with JavaCV.
 
 - JavaCV Download: http://sourceforge.net/projects/javacv/.
