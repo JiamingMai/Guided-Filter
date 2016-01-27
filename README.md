@@ -1,9 +1,7 @@
 # Guided Image Filter
-
-## Introduction:
-    This file GuidedImageFilter.java is an implementation of Guided Image Filter with JavaCV    
-    JavaCV Download: http://sourceforge.net/projects/javacv/.
-    Guided image filtering is proposed in "Guided Image Filtering (ECCV 2010)" by Kaiming He, Jian Sun, and Xiaoou Tang.
+This file GuidedImageFilter.java is an implementation of Guided Image Filter with JavaCV.
+JavaCV Download: http://sourceforge.net/projects/javacv/.
+Guided image filtering is proposed in "Guided Image Filtering (ECCV 2010)" by Kaiming He, Jian Sun, and Xiaoou Tang.
 
 ## Example:
 ```java
